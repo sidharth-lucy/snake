@@ -24,5 +24,7 @@ and extended to add more features and complexity to the game.
 ### Take a tour:
 
 
-![User Interface for the game:](Images_for_readme.md/a.png)
+![User Interface for the game:](image/a.png)
+![User Interface for the game:](image/b.png)
+![User Interface for the game:](image/c.png)
 
